@@ -1,0 +1,23 @@
+tile.speedForceOre.name=Speed Force Ore
+
+itemGroup.flashTab=The Flash Tab
+
+potion.speedForce=Speed Force
+
+item.helmetFlash.name=Flash Facemask
+item.chestFlash.name=Flash Torso
+item.legsFlash.name=Flash Leggings
+item.bootsFlash.name=Flash Boots
+
+item.helmetFutureFlash.name=Future Flash Facemask
+item.chestFutureFlash.name=Future Flash Torso
+item.legsFutureFlash.name=Future Flash Leggings
+item.bootsFutureFlash.name=Future Flash Boots
+
+item.futureFlashRing.name=Future Flash Ring
+item.flashRing.name=Flash Ring
+
+item.barryAllenLabSpawner.name=Barry Allen's Lab Spawner
+item.cosmicTreadmillSpawner.name=Cosmic Treadmill Spawner
+item.futureFlashHand.name=
+item.flashHand.name=
